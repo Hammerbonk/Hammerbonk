@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hammerbonk! I'm from Ukraine. I can speak Ukrainian, Russian, English and German, I also started learning Japanese. ✨
+- 👋 Hi, I’m Hammerbonk! I'm from Ukraine. I can speak Ukrainian, Russian, English and German. I also started learning Japanese. ✨
 - 👀 I’m interested in programming, creating websites and learning foreign languages. I also like to play computer games! ✨
 - 🌱 I’m currently learning JavaScript and Python. I already know HTML/CSS very well! ✨
 - 📫 How to reach me:

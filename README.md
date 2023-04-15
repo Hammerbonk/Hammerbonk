@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hammerbonk! I'm from Ukraine. I can speak Ukrainian, Russian, English and German. I also started learning Japanese. ✨
-- 👀 I’m interested in programming, creating websites and learning foreign languages. I also like to play computer games! ✨
-- 🌱 I’m currently learning JavaScript and Python. I already know HTML/CSS very well! ✨
+- 👋 I’m Hammerbonk. I speak Russian, Ukrainian, English and German.
+- 👀 I’m interested in programming, learning foreign languages, and physics.
+- 🌱 I’m currently learning JavaScript and Python. I also know HTML/CSS.
 - 📫 How to reach me:
 -       My Steam account: https://steamcommunity.com/profiles/76561199111618819/
 -       My VK account: https://vk.com/eruditio_sosat

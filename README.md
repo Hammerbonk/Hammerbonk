@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 -       My Steam account: https://steamcommunity.com/profiles/76561199111618819/
 -       My VK account: https://vk.com/eruditio_sosat
--       My Discord: Hammerbonk#1506
+-       My Discord: hammerbonk
 
 <!---
 Hammerbonk/Hammerbonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
